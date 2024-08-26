@@ -1,0 +1,6 @@
+{
+    "MAPBOX_URL" : "https://api.mapbox.com/geocoding/v5/mapbox.places/",
+    "MAPBOX_API_KEY": "pk.eyJ1Ijoibm9uZ3BvayIsImEiOiJjbTA4ZnVjazgwOTNyMmlzYjcxZzQzZnY5In0.Ahhob-t08jyqWRuZllRoUg",
+    "WEATHER_URL": "https://api.weatherapi.com/v1/",
+    "WEATHER_API_KEY": "5deaa6b9bb9349708c9205341242408"
+}
