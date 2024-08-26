@@ -2,6 +2,8 @@
 
 A simple and responsive weather application built with Vue.js. This app allows users to input a city name and fetch current weather data using the MapBox and Weather API.
 
+# Try it out : [SkyCast](https://nongpok-weather-app.netlify.app/)
+
 ![Weather App Screenshot](./src/assets/mob-image.png)
 ![Weather App Screenshot](./src/assets/image.png)
 ![Weather App Screenshot](./src/assets/web-image.png)
