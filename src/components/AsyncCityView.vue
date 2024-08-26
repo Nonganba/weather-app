@@ -1,7 +1,7 @@
 <template>
     <div class="flex flex-col flex-1 items-center justify-center md:mx-20">
         <!-- Banner -->
-        <div v-if="route.query.preview" class="text-white p-4 bg-weather-secondary/30 w-full text-center w-screen">
+        <div v-if="route.query.preview" class="text-white p-4 bg-weather-secondary/30 text-center w-screen">
             <p>
                 You are currently previewing this city, click the "+"
                 icon to start tracking this city.
