@@ -2,7 +2,9 @@
 
 A simple and responsive weather application built with Vue.js. This app allows users to input a city name and fetch current weather data using the OpenWeatherMap API.
 
-![Weather App Screenshot]('./src/assets/image.png')
+![Weather App Screenshot](./src/assets/mob-image.png)
+![Weather App Screenshot](./src/assets/image.png)
+![Weather App Screenshot](./src/assets/web-image.png)
 
 ## Features
 
